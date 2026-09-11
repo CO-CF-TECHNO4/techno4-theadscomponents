@@ -6,7 +6,7 @@
 
 ### Вихідні компоненти та атрибуція (MIT License):
 Початковий код складових частин системи розроблявся як вільне програмне забезпечення під ліцензією MIT:
-- **Total.js Flow components** (компоненти FlowStream) — https://github.com/totaljs/flowstreamcomponents
+- **Total.js Threads components** (компоненти ThreadsStream) — https://github.com/totaljs/flowstreamcomponents
 
 ### Підтримка та поширення:
 Наразі система підтримуватиметься і поширюватиметься:

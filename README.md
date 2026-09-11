@@ -2,8 +2,8 @@
 
 <div align="center">
 
-**Бібліотека вузлів та компонентів FlowStream для Threads Studio**  
-*FlowStream node and component library for Threads Studio*
+**Бібліотека вузлів та компонентів ThreadsStream для Threads Studio**  
+*ThreadsStream node and component library for Threads Studio*
 
 [![License: LGPL-3.0-or-later](https://img.shields.io/badge/License-LGPL--3.0--or--later-blue.svg)](LICENSE)
 [![Organization](https://img.shields.io/badge/Organization-CO%20%C2%ABCF%20TECHNO4%C2%BB-green.svg)](https://techno4.online)
@@ -56,7 +56,7 @@ npm test
 Вихідний код розповсюджується за ліцензією **LGPL-3.0-or-later**.  
 Підтримується: **благодійна організація «БЛАГОДІЙНИЙ ФОНД ТЕХНО4»** (`CO «CF TECHNO4»`).  
 Автор: **Mykola Zghurskyi** (`mykola@techno4.online`).  
-Містить адаптовані компоненти із проєкту Total.js Flow (MIT License).
+Містить адаптовані компоненти із проєкту Total.js Threads (MIT License).
 
 <br>
 
@@ -67,7 +67,7 @@ npm test
 ### 🎯 Project Mission
 > **A free initiative supporting modern developer tools, supported by the charitable organization "CO «CF TECHNO4»" (благодійна організація «БЛАГОДІЙНИЙ ФОНД ТЕХНО4»).**
 
-`techno4-threads-components` is the official library of pre-built FlowStream nodes, microservices, and automation blocks for the **Threads Studio** visual development engine in **TECHNO4 FRAMEWORK2**.
+`techno4-threads-components` is the official library of pre-built ThreadsStream nodes, microservices, and automation blocks for the **Threads Studio** visual development engine in **TECHNO4 FRAMEWORK2**.
 
 ### 🧩 Component Catalog
 The repository provides over 140 production-grade components across essential categories:
@@ -98,4 +98,4 @@ For detailed guides and references:
 Distributed under the **LGPL-3.0-or-later** license.  
 Published and supported by **CO «CF TECHNO4»** (`благодійна організація «БЛАГОДІЙНИЙ ФОНД ТЕХНО4»`).  
 Author: **Mykola Zghurskyi** (`mykola@techno4.online`).  
-Contains derivatives of Total.js Flow components (MIT License).
+Contains derivatives of Total.js Threads components (MIT License).

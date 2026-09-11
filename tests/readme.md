@@ -1,10 +1,10 @@
-# FlowStream Component Tester
+# ThreadsStream Component Tester
 
-Simple tool for testing FlowStream components.
+Simple tool for testing ThreadsStream components.
 
 ## Usage
 
-First, you need to initialize testing FlowStream instance by calling imported `tester` function. In callback you will get `test` function that is used to initialize components. To initialize component use `test` with filename as first argument of component inside `components` directory (path can be changed with `tester.path`). After successfull component initialization, `test` instance is returned in callback of second argument where you can start testing your component.
+First, you need to initialize testing ThreadsStream instance by calling imported `tester` function. In callback you will get `test` function that is used to initialize components. To initialize component use `test` with filename as first argument of component inside `components` directory (path can be changed with `tester.path`). After successfull component initialization, `test` instance is returned in callback of second argument where you can start testing your component.
 
 If your test is longer than 5 seconds, consider extending `tester.timeout` value or disabling auto-close feature and manually existing using tester with `done()` method (second argument in callback of `tester()` function).
 
@@ -68,7 +68,7 @@ describe('increment', function(test) {
 
 **Output**:
 
-All outcoming messages from component can be catched with `test.message` or `test.output` delegate. In callback you get [FlowStream message](https://docs.totaljs.com/total4/40844001ni51c/) but it's extended with test handlers (more in **Handlers**)
+All outcoming messages from component can be catched with `test.message` or `test.output` delegate. In callback you get [ThreadsStream message](https://docs.totaljs.com/total4/40844001ni51c/) but it's extended with test handlers (more in **Handlers**)
 
 ```js
 describe('test', function (test) {

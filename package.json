@@ -1,7 +1,7 @@
 {
   "name": "techno4-threads-components",
   "version": "2.0.0",
-  "description": "FlowStream components library for TECHNO4 FRAMEWORK2 Threads Studio",
+  "description": "ThreadsStream components library for TECHNO4 FRAMEWORK2 Threads Studio",
   "main": "db.json",
   "scripts": {
     "test": "node tester.js",
@@ -13,7 +13,7 @@
   },
   "keywords": [
     "techno4",
-    "flowstream",
+    "threadsstream",
     "threads",
     "components",
     "iot",
