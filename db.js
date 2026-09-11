@@ -1,4 +1,8 @@
-require('total4');
+try {
+	require('techno4-total');
+} catch (e) {
+	require('total4');
+}
 
 FUNC.indent = function(count, val) {
 

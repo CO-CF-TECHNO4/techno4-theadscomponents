@@ -1,5 +1,40 @@
 {
+  "name": "techno4-threads-components",
+  "version": "2.0.0",
+  "description": "FlowStream components library for TECHNO4 FRAMEWORK2 Threads Studio",
+  "main": "db.json",
+  "scripts": {
+    "test": "node tester.js",
+    "build:db": "node db.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CO-CF-TECHNO4/techno4-theadscomponents.git"
+  },
+  "keywords": [
+    "techno4",
+    "flowstream",
+    "threads",
+    "components",
+    "iot",
+    "automation",
+    "serial",
+    "mqtt"
+  ],
+  "author": "Mykola Zghurskyi <mykola@techno4.online>",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/CO-CF-TECHNO4/techno4-theadscomponents/issues"
+  },
+  "homepage": "https://techno4.online",
+  "files": [
+    "components",
+    "db.json",
+    "db.js",
+    "README.md",
+    "LICENSE"
+  ],
   "dependencies": {
-    "total4": "latest"
+    "techno4-total": "^2.0.0"
   }
 }
