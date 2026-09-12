@@ -27,6 +27,12 @@
 
 `techno4-threads-components` — це офіційна бібліотека готових вузлів, сервісів та блоків автоматизації для середовища візуального програмування **Threads Studio** у складі **TECHNO4 FRAMEWORK2**.
 
+### 📦 Встановлення
+
+```bash
+npm install techno4-threads-components
+```
+
 ### 🧩 Склад бібліотеки
 Репозиторій містить понад 140 компонентів, розподілених за функціональними напрямками:
 - **Мережа та протоколи**: REST маршрути, WebSockets, MQTT брокери та підписки, HTTP запити, проксі.
@@ -68,6 +74,12 @@ npm test
 > **A free initiative fostering modern developer tools, supported by the charitable organization "CO «CF TECHNO4»" (благодійна організація «БЛАГОДІЙНИЙ ФОНД ТЕХНО4»).**
 
 `techno4-threads-components` is the official library of pre-built ThreadsStream nodes, microservices, and automation blocks for the **Threads Studio** visual development engine in **TECHNO4 FRAMEWORK2**.
+
+### 📦 Installation
+
+```bash
+npm install techno4-threads-components
+```
 
 ### 🧩 Component Catalog
 The repository provides over 140 production-grade components across essential categories:
