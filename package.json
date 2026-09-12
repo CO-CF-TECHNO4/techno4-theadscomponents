@@ -1,6 +1,6 @@
 {
   "name": "techno4-threads-components",
-  "version": "2.0.0",
+  "version": "2.0.4",
   "description": "ThreadsStream components library for TECHNO4 FRAMEWORK2 Threads Studio",
   "main": "db.json",
   "scripts": {
