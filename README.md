@@ -10,7 +10,7 @@
 
 ---
 
-### [🇺🇦 Українська](#-українська) &nbsp;|&nbsp; [🇬🇧 English](#-english)
+### [uk_UA](#uk_ua) &nbsp;|&nbsp; [en_GB](#en_gb)
 
 ---
 
@@ -20,10 +20,10 @@
 
 ---
 
-## 🇺🇦 Українська
+## uk_UA
 
 ### 🎯 Мета проєкту
-> **Вільна ініціатива підтримки сучасних інструментів розробника за підтримки благодійної організації «БЛАГОДІЙНИЙ ФОНД ТЕХНО4» (CO «CF TECHNO4»).**
+> **Вільна ініціатива розвитку сучасних інструментів розробника за підтримки благодійної організації «БЛАГОДІЙНИЙ ФОНД ТЕХНО4» (CO «CF TECHNO4»).**
 
 `techno4-threads-components` — це офіційна бібліотека готових вузлів, сервісів та блоків автоматизації для середовища візуального програмування **Threads Studio** у складі **TECHNO4 FRAMEWORK2**.
 
@@ -62,10 +62,10 @@ npm test
 
 ---
 
-## 🇬🇧 English
+## en_GB
 
 ### 🎯 Project Mission
-> **A free initiative supporting modern developer tools, supported by the charitable organization "CO «CF TECHNO4»" (благодійна організація «БЛАГОДІЙНИЙ ФОНД ТЕХНО4»).**
+> **A free initiative fostering modern developer tools, supported by the charitable organization "CO «CF TECHNO4»" (благодійна організація «БЛАГОДІЙНИЙ ФОНД ТЕХНО4»).**
 
 `techno4-threads-components` is the official library of pre-built ThreadsStream nodes, microservices, and automation blocks for the **Threads Studio** visual development engine in **TECHNO4 FRAMEWORK2**.
 
